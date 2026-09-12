@@ -57,10 +57,10 @@ Open [https://bhoomikoru-bharam.vercel.app/](https://bhoomikoru-bharam.vercel.ap
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](https://drive.google.com/file/d/13ZAYRY0qU4XkSMhEGpaKEEtFO7EtMDm2/view?usp=sharing)
+![Screenshot1]
 *Landing Page*
 
-![Screenshot2](https://drive.google.com/file/d/1iW10C8vFVWrBGZWgEpzensYNGUKVI6AZ/view?usp=sharing)
+![Screenshot2]
 *Cursor Freeze*
 
 
