@@ -6,13 +6,12 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Deathly Hallows
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Catherine Nixon - ASIET,Kalady
+- Member 2: Dawn Reji - ASIET,Kalady
 
 ### Project Description
 A hyper-polished web application intentionally designed to be extremely frustrating, unnecessarily complicated, unpredictable, and completely useless. Completing a simple Sign Up → Login process requires an absurd amount of time, patience, and sanity.
@@ -58,14 +57,12 @@ Open [https://bhoomikoru-bharam.vercel.app/](https://bhoomikoru-bharam.vercel.ap
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot1](https://drive.google.com/file/d/13ZAYRY0qU4XkSMhEGpaKEEtFO7EtMDm2/view?usp=sharing)
+*Landing Page*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot2](https://drive.google.com/file/d/1iW10C8vFVWrBGZWgEpzensYNGUKVI6AZ/view?usp=sharing)
+*Cursor Freeze*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
@@ -73,16 +70,15 @@ For Software:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+[Video](https://drive.google.com/file/d/1fsVzaQLz8bntEBL-R_vNQBz--qzlY8tc/view?usp=drive_link)
 *Explain what the video demonstrates*
 
 # Additional Demos
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Catherine Nixon: Idea & Project
+- Dawn Reji: Idea & Project
 
 ---
 
