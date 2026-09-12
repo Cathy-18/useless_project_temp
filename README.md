@@ -57,10 +57,12 @@ Open [https://bhoomikoru-bharam.vercel.app/](https://bhoomikoru-bharam.vercel.ap
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1]
+![Screenshot1]<img width="1917" height="846" alt="Screenshot 2026-09-12 065021" src="https://github.com/user-attachments/assets/da3352d0-a6d0-4918-83a0-c8c93b271c39" />
+
 *Landing Page*
 
-![Screenshot2]
+![Screenshot2]<img width="1907" height="882" alt="Screenshot 2026-09-12 065033" src="https://github.com/user-attachments/assets/9613ac92-d131-424f-a6b3-714285dfc9aa" />
+
 *Cursor Freeze*
 
 
